@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car.Rental</string>
+    <string name="logo_description" />
+    <string name="log_in_page" />
+    <string name="username">User Name\n</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="back">Back</string>
+</resources>

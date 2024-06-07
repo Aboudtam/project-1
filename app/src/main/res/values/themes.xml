@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.CarRental" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:background">@color/white</item>
+        <item name="buttonStyle">@drawable/button_background</item>
+    </style>
+
+    <style name="Theme.CarRental" parent="Base.Theme.CarRental" />
+
+    <style name="Button.CarRental" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_background</item>
+</style>
+</resources>
+
+
+
+
+
